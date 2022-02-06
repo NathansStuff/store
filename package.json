@@ -1,6 +1,24 @@
 {
   "dependencies": {
+    "express": "^4.17.2",
     "react-router-bootstrap": "^0.26.0",
     "react-router-dom": "^6.2.1"
-  }
+  },
+  "name": "mern-store",
+  "description": "\"# store\"",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathansStuff/store.git"
+  },
+  "author": "Nathan O'Donnell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathansStuff/store/issues"
+  },
+  "homepage": "https://github.com/NathansStuff/store#readme"
 }
